@@ -10,11 +10,12 @@ const questions = [
     message: "Please choose 3 letters: ",
     name: "letters",
   },
-  // colors
+  // lettercolors
   {
     type: "input",
-    message: "Please enter a color keyword or a hexadecimal number: ",
-    name: "colors",
+    message:
+      "Please enter a color keyword or a hexadecimal number for letter colors: ",
+    name: "letterColors",
   },
   //shape
   {
@@ -22,6 +23,13 @@ const questions = [
     message: "Please choose a Shape: ",
     name: "shape",
     choices: ["Square", "Circle", "Triangle"],
+  },
+  //shape colors
+  {
+    type: "input",
+    message:
+      "Please enter a color keyword or a hexadecimal number for shape colors: ",
+    name: "shapeColors",
   },
 ];
 
