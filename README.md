@@ -25,7 +25,12 @@ link to your website
 N/A
 
 ## 3. Credits
--  N/A
+- Jest
+https://jestjs.io/docs/getting-started
+- SVG tutorial w3schools
+https://www.w3schools.com/graphics/svg_intro.asp
+- Js switch statement
+- https://www.w3schools.com/js/js_switch.asp
 
 ## 4. Github
 -  My Github link: [stevenrodriguezdev](https://github.com/StevenRodriguezDev)
