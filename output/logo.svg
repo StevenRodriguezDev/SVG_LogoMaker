@@ -1,0 +1,4 @@
+<svg width="300" height="200">
+      <circle  cx="100" cy="100" r="100"   fill="Blue" />
+      <text x="100"  y="115" font-size="70" text-anchor="middle" fill="Yellow">srs</text>
+      </svg>
